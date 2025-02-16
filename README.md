@@ -11,7 +11,7 @@ Project Workflow:
 
 
 
-✅ Data Transform : after load data in Power BI must to ensure that all columns have suitable data type and make first row as a column header if data not have a header.
+✅ Power Query : after load data in Power BI must to ensure that all columns have suitable data type and make first row as a column header if data not have a header.
 
 
 
