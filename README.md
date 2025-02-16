@@ -5,7 +5,7 @@ Hi, I`m very excited to share my first project as a data analyst. is a Car price
 
 ### Price Analysis Dashboard
 
-![Price Analysis Dashboard](https://github.com/user-attachments/assets/8f21cc0b-3462-43fe-aaf6-e3129692a7be)
+![Price Analysis Dashboard](https://github.com/user-attachments/assets/c3433c2f-2ede-4fc6-90de-2d811eb96b18)
 
 ### Technical & Trends  Analysis Dashboard
 
