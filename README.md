@@ -49,8 +49,8 @@ Note: I could make all preprocessing in Power BI but I did it with python so don
 3️⃣ How to make Interactive Dashboard by create a Filter data
 
 
-Linked-In Profile:
-🔗https://www.linkedin.com/in/ziad-ahmed-gharieb-327a87275/
+🔗Linked-In Profile:
+https://www.linkedin.com/in/ziad-ahmed-gharieb-327a87275/
 
 ## Freelance Websites:
 ### Kamsat: 
