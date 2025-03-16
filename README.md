@@ -50,7 +50,7 @@ Note: I could make all preprocessing in Power BI but I did it with python so don
 
 
 Linked-In Profile:
-https://www.linkedin.com/in/ziad-ahmed-gharieb-327a87275/
+🔗https://www.linkedin.com/in/ziad-ahmed-gharieb-327a87275/
 
 ## Freelance Websites:
 ### Kamsat: 
