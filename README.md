@@ -51,3 +51,10 @@ Note: I could make all preprocessing in Power BI but I did it with python so don
 
 Linked-In Profile:
 https://www.linkedin.com/in/ziad-ahmed-gharieb-327a87275/
+
+## Freelance Websites:
+### Kamsat: 
+https://khamsat.com/user/zeyad_7ahmed
+
+### Upwork: 
+https://www.upwork.com/freelancers/~01d8822699a3c3490c
